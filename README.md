@@ -3,5 +3,5 @@ El cliente requiere un sistema que administre la relación B2B con Clientes y pr
 
 Elabora un sistema a manera de paquete de composer, mismo que debes importar en láravel, que te permita capturar una empresa, ya sea como cliente o como proveedor.
 
-El sistema debe poder decirte  para qué línea de producto o servicio es cliente la empresa y de qué producto o servicio  es proveedor.
+El sistema debe poder decirte  para qué productos o servicios es cliente la empresa y de qué productos o servicios es proveedor.
 
