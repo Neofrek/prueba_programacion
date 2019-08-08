@@ -1,0 +1,15 @@
+{
+    "name": "ernesto/paquete",
+    "description": "Prueba",
+    "minimum-stability": "dev",
+	"autoload-dev": {
+        "psr-4": {
+            "src\\": "src/"
+        },
+        "files": [
+            "src/queries.php",
+            "src/conexion.php"
+        ]
+    },
+    "require": {}
+}
